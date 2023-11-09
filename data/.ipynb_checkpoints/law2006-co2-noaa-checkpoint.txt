@@ -1,0 +1,545 @@
+﻿# Law Dome Ice Core 2000-Year CO2, CH4, and N2O Data
+#----------------------------------------------------------------------- 
+#                World Data Service for Paleoclimatology, Boulder 
+#                                  and 
+#                     NOAA Paleoclimatology Program 
+#             National Centers for Environmental Information (NCEI)
+#----------------------------------------------------------------------- 
+# Template Version 4.0
+# Encoding: UTF-8
+# NOTE: Please cite original publication, NOAA Landing Page URL, dataset and publication DOIs (where available), and date accessed when using downloaded data. If there is no publication information, please cite investigator, study title, NOAA Landing Page URL, and date accessed. 
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# NOAA_Landing_Page:  https://www.ncei.noaa.gov/access/paleo-search/study/9959
+#   Landing_Page_Description: NOAA Landing Page of this file's parent study, which includes all study metadata.
+#
+# Study_Level_JSON_Metadata: https://www.ncei.noaa.gov/pub/data/metadata/published/paleo/json/noaa-icecore-9959.json
+#   Study_Level_JSON_Description: JSON metadata of this data file's parent study, which includes all study metadata.
+#
+# Data_Type: Ice cores
+#
+# Dataset_DOI: 10.25921/g6kd-k189
+#
+# Science_Keywords: carbon cycle
+#--------------------
+# Resource_Links
+#   
+# Data_Download_Resource: https://www.ncei.noaa.gov/pub/data/paleo/icecore/antarctica/law/law2006-co2-noaa.txt
+#   Data_Download_Description: NOAA Template File; Atmospheric Carbon Dioxide Data
+#
+#--------------------
+# Contribution_Date
+#   Date: 2010-07-16
+#--------------------
+# File_Last_Modified_Date
+#   Date: 2022-08-09
+#--------------------
+# Title
+#   Study_Name: Law Dome Ice Core 2000-Year CO2, CH4, and N2O Data
+#--------------------
+# Investigators
+#   Investigators: MacFarling Meure, C.; Etheridge, D.M.; Trudinger, C.; Steele, L.P.; Langenfelds, R.L.; van Ommen, T.D.; Smith, A.M.; Elkins, J.
+#--------------------
+# Description_Notes_and_Keywords
+#   Description: Law Dome ice core (DSS, DE08 and DE08-2), firn air (DSSW20K), and Cape Grim instrumental (deseasonalised archive, insitu and flask) records of CO2, CH4 and N2O concentrations for the past 2000 years. Law Dome location: The dome summit is as follows, individual cores are within about 25 km (see publications): 66°44'S, 112°50'E, 1390m elevation. 
+#
+# Measurement precision for the ice core air samples is 4.1 ppb CH4, 1.1 ppm CO2, and 6.5 ppb N2O. Measurement precision for the firn air samples is 2 ppb CH4, 0.1 ppm CO2 and 0.3 ppb N2O. Ice core concentrations are adjusted for small system enhancements (1.1 ± 0.8 ppm for CO2, 4.1 ± 4.0 ppb for CH4, and 1.8 ± 0.9 ppb for N2O) as described in MacFarling Meure et al. (2006) and for the effects of gravitational fractionation, also small, as described in Etheridge et al. 1996, 1998. 
+#
+# Air age spread is 10-12 years for DE08/-2 ice samples, 18-20 years for DSS ice samples and 5 years for DSSW20K firn air samples. See Trudinger et al., 2002 for statistical definitions. DE08 and DE08-2 ice core air dating uncertainty is less than +/- 3 years. DSS ice core air dating uncertainty is less than +/- 5 years. DSS ice dating has been revised based on new accumulation rates and temperatures (van Ommen, T., V. Morgan and M.A.J. Curran. 2004. Deglacial and Holocene changes in accumulation at Law Dome, East Antarctica, Annals Glaciol., 39, 359-365.; MacFarling Meure 2004). The dating of published DSS concentrations have been adjusted by less than 5 years under the new chronology. 
+#
+# Original references: a) Ice Core results: Law Dome CO2 and CH4 records of the last 1000 years first published in Etheridge et al., 1996 and 1998.  Newer results which fill in gaps, extend record to 2000 BP and include N2O, were published and explained in detail in MacFarling Meure et al. 2006 and MacFarling Meure 2004. Some new CH4 results were also published in Ferretti et al. 2005. b) Firn air results: From Etheridge et al. 1998, Trudinger et al. 2002, Sturrock et al. 2002. c) Cape Grim record: The Cape Grim record is composed of deseasonalised air archive and flask records for CH4 and N2O and deseasonalised flask and in situ records for CO2, from Langenfelds et al. 1996, 2004.
+#--------------------
+# Publication 
+#   Authors: MacFarling Meure, C., D. Etheridge, C. Trudinger, P. Steele, R. Langenfelds, T. van Ommen, A. Smith, and J. Elkins
+#   Published_Date_or_Year: 2006-07-01
+#   Published_Title: Law Dome CO2, CH4 and N2O Ice Core Records Extended to 2000 years BP
+#   Journal_Name: Geophysical Research Letters
+#   Volume: 33
+#   Edition: 
+#   Issue: 14
+#   Pages: 
+#   Report_Number: L14810
+#   DOI: 10.1029/2006GL026152 
+#   Publication_Place: 
+#   Publisher:
+#   ISBN: 
+#   Online_Resource: 
+#   Other_Reference_Details: 
+#   Full_Citation:
+#   Abstract: New measurements of atmospheric greenhouse gas concentrations in ice from Law Dome, Antarctica reproduce published Law Dome CO2 and CH4 records, extend them back to 2000 years BP, and include N2O. They have very high air age resolution, data density and measurement precision. Firn air measurements span the past 65 years and overlap with the ice core and direct atmospheric observations. Major increases in CO2, CH4 and N2O concentrations during the past 200 years followed a period of relative stability beforehand. Decadal variations during the industrial period include the stabilization of CO2 and slowing of CH4 and N2O growth in the 1940s and 1950s. Variations of up to 10 ppm CO2, 40 ppb CH4 and 10 ppb N2O occurred throughout the preindustrial period.  Methane concentrations grew by 100 ppb from AD 0 to 1800, possibly due to early anthropogenic emissions.
+#--------------------
+# Publication 
+#   Authors: Etheridge, D.M., L.P. Steele, R.L. Langenfelds, R.J. Francey, J.-M. Barnola, and V.I. Morgan
+#   Published_Date_or_Year: 1996-02-20
+#   Published_Title: Natural and anthropogenic changes in atmospheric CO2 over the last 1000 years from air in Antarctic ice and firn
+#   Journal_Name: Journal of Geophysical Research Atmospheres
+#   Volume: 101
+#   Edition: 
+#   Issue: D2
+#   Pages: 4115-4128
+#   Report_Number: 
+#   DOI: 10.1029/95JD03410
+#   Publication_Place: 
+#   Publisher:
+#   ISBN: 
+#   Online_Resource: 
+#   Other_Reference_Details: 
+#   Full_Citation:
+#   Abstract:A record of atmospheric CO2 mixing ratios from 1006 A.D. to 1978 A.D. has been produced by analysing the air enclosed in three ice cores from Law Dome, Antarctica. The enclosed air has unparalleled age resolution and extends into recent decades, because of the high rate of snow accumulation at the ice core sites. The CO2 data overlap with the record from direct atmospheric measurements for up to 20 years. The effects of diffusion in the firn on the CO2 mixing ratio and age of the ice core air were determined by analyzing air sampled from the surface down to the bubble close-off depth. The uncertainty of the ice core CO2 mixing ratios is 1.2 ppm (1 σ). Preindustrial CO2 mixing ratios were in the range 275–284 ppm, with the lower levels during 1550–1800 A.D., probably as a result of colder global climate. Natural CO2 variations of this magnitude make it inappropriate to refer to a single preindustrial CO2 level. Major CO2 growth occurred over the industrial period except during 1935–1945 A.D. when CO2 mixing ratios stabilized or decreased slightly, probably as a result of natural variations of the carbon cycle on a decadal timescale.
+#--------------------
+# Publication 
+#   Authors: Etheridge, D.M., L.P. Steele, R.J. Francey, and R.L. Langenfelds
+#   Published_Date_or_Year: 1998-07-20
+#   Published_Title: Atmospheric methane between 1000 A.D. and present: Evidence of anthropogenic emissions and climatic variability
+#   Journal_Name: Journal of Geophysical Research Atmospheres
+#   Volume: 103
+#   Edition: 
+#   Issue: D13
+#   Pages: 15979-15993
+#   Report_Number: 
+#   DOI: 10.1029/98JD00923
+#   Publication_Place: 
+#   Publisher:
+#   ISBN: 
+#   Online_Resource: 
+#   Other_Reference_Details: 
+#   Full_Citation:
+#   Abstract:Atmospheric methane mixing ratios from 1000 A.D. to present are measured in three Antarctic ice cores, two Greenland ice cores, the Antarctic firn layer, and archived air from Tasmania, Australia. The record is unified by using the same measurement procedure and calibration scale for all samples and by ensuring high age resolution and accuracy of the ice core and firn air. In this way, methane mixing ratios, growth rates, and interpolar differences are accurately determined. From 1000 to 1800 A.D. the global mean methane mixing ratio averaged 695 ppb and varied about 40 ppb, contemporaneous with climatic variations. Interpolar (N-S) differences varied between 24 and 58 ppb. The industrial period is marked by high methane growth rates from 1945 to 1990, peaking at about 17 ppb yr−1 in 1981 and decreasing significantly since. We calculate an average total methane source of 250 Tg yr−1 for 1000–1800 A.D., reaching near stabilization at about 560 Tg yr−1 in the 1980s and 1990s. The isotopic ratio, δ13CH4, measured in the archived air and firn air, increased since 1978 but the rate of increase slowed in the mid-1980s. The combined CH4 and δ13CH4 trends support the stabilization of the total CH4 source.
+#--------------------
+# Publication 
+#   Authors: MacFarling Meure, C.
+#   Published_Date_or_Year: 2004
+#   Published_Title: The variation of atmospheric carbon dioxide, methane and nitrous oxide during the Holocene from ice core analysis
+#   Journal_Name: PhD dissertation
+#   Volume: 
+#   Edition: 
+#   Issue: 
+#   Pages: 
+#   Report_Number: 
+#   DOI:  
+#   Publication_Place: 
+#   Publisher: University of Melbourne
+#   ISBN: 
+#   Online_Resource: 
+#   Other_Reference_Details: 
+#   Full_Citation:
+#   Abstract: Recent studies have demonstrated that the atmospheric concentrations of radiatively important greenhouse gases, including methane (CH4), carbon dioxide (CO2), nitrous oxide (N2O) and carbon monoxide (CO), have significantly increased during the past 200 years due to anthropogenic emissions.  Analysis of air trapped in polar ice cores allows for past atmospheric variations due to natural climate conditions to be investigated, placing recent changes in a historical context.  In this thesis new high-precision, multispecies measurements of atmospheric trace gas concentrations during the Holocene have been produced by analysing the air trapped in the ice at Law Dome, East Antarctica (66°46’08”E, 112°48’28”S).  The ice core records are well-dated, have high age resolution and overlap with modern instrumental records due to the high accumulation rate at the drilling sites.  The combination of high age resolution, precise dating and high precision measurements allows for subtle, decadal-scale variability to be detected.  The multispecies measurement technique allows for biogeochemical causes of variations to be identified.  The first part of this study focused on the late Holocene period (AD 0 to 1975).  New high-precision records of CH4, CO2, N2O and CO have been produced for this period.  The CH4 and CO2 measurements are used to build upon the existing Law Dome records of these gases during the last 1000 years, to validate and further define previously observed variations.  The new measurements extend the records of these gases by another 1000 years.  As a consequence of the multispecies measurement technique it has been possible to also measure N2O and CO during this period.  These new measurements highlight the atmospheric response to the Little Ice Age (LIA) cooling (AD 1550 to 1800), particularly a 10 ppm decrease in atmospheric CO2 between AD 1550 and 1600.  A stabilization of CO2 during the 1940s was also confirmed in the Law Dome record.  Increased data density during this period shows that the atmospheric CO2 mixing ratio stabilized at ~310 ppm between 1937 and 1955.  New signals were observed in the extended records, including a 100 ppb increase in the CH4 concentration between AD 0 and 1800, which is probably the result of increasing pre-industrial anthropogenic emissions.  The second part of this study focussed on the CO2 and CH4 response to a rapid, abrupt cooling at 8,200 years BP.  The Law Dome (DSS) measurements are complemented by four measurements of NorthGRIP (Greenland) ice core.  A decrease of at least 52 ppb CH4 is observed in the DSS record, and a decrease of at least 62 ppb is observed at NorthGRIP during the same period.  A smaller CO2 response of 4 to 5 ppm is seen in both the records.  The CH4 signal is used to improve the chronologies of these ice cores by synchronising with other well-dated CH4 records, specifically GRIP (Greenland) and Dome C (Antarctica). 
+#--------------------
+# Publication 
+#   Authors: Ferretti, D.F., J.B. Miller, J.W.C. White, D.M. Etheridge, K.R. Lassey, D.C. Lowe, C.M. MacFarling Meure, M.F. Dreier, C.M. Trudinger, T.D. van Ommen, and R.L. Langenfelds
+#   Published_Date_or_Year: 2005-09-09
+#   Published_Title: Unexpected Changes to the Global Methane Budget over the Past 2,000 Years
+#   Journal_Name: Science
+#   Volume: 309
+#   Edition: 
+#   Issue: 5741
+#   Pages: 1714-1717
+#   Report_Number: 
+#   DOI: 10.1126/science.1115193
+#   Publication_Place: 
+#   Publisher:
+#   ISBN: 
+#   Online_Resource: 
+#   Other_Reference_Details: 
+#   Full_Citation:
+#   Abstract: We report a 2000-year Antarctic ice-core record of stable carbon isotope measurements in atmospheric methane (δ13CH4). Large δ13CH4 variations indicate that the methane budget varied unexpectedly during the late preindustrial Holocene (circa 0 to 1700 A.D.). During the first thousand years (0 to 1000 A.D.), δ13CH4 was at least 2 per mil enriched compared to expected values, and during the following 700 years, an about 2 per mil depletion occurred. Our modeled methane source partitioning implies that biomass burning emissions were high from 0 to 1000 A.D. but reduced by almost ∼40% over the next 700 years. We suggest that both human activities and natural climate change influenced preindustrial biomass burning emissions and that these emissions have been previously understated in late preindustrial Holocene methane budget research.
+#--------------------
+# Publication 
+#   Authors: Trudinger, C.M., D.M. Etheridge, P.J. Rayner, I.G. Enting, G.A. Sturrock, and R.L. Langenfelds
+#   Published_Date_or_Year: 2002-12-27
+#   Published_Title: Reconstructing atmospheric histories from measurements of air in firn
+#   Journal_Name: Journal of Geophysical Research Atmospheres
+#   Volume: 107
+#   Edition: 
+#   Issue: D24
+#   Pages: ACH 15-1-ACH 15-13
+#   Report_Number: 
+#   DOI: 10.1029/2002JD002545
+#   Publication_Place: 
+#   Publisher:
+#   ISBN: 
+#   Online_Resource: 
+#   Other_Reference_Details: 
+#   Full_Citation:
+#   Abstract: This paper investigates the use of a numerical model of firn diffusion and bubble trapping in the reconstruction of atmospheric records from firn measurements. We describe the concept of mean age and effective age of tracers in firn air and how the growth rate of a tracer in the atmosphere can alter the effective age. We discuss an iterative method to assign effective ages to firn measurements for tracers with fairly simple atmospheric histories, taking into account atmospheric growth rate variations. We then develop a Bayesian synthesis inversion calculation for inverting firn concentration measurements. This calculation gives estimates of the atmospheric concentration record with uncertainties. The dating and inversion techniques are demonstrated here with carbon tetrachloride measurements from a long firn record from Law Dome, Antarctica. The techniques are then applied to measurements of a range of halocarbons in a companion paper by Sturrock et al. [2002].
+#--------------------
+# Publication 
+#   Authors: Sturrock, G.A., D.M. Etheridge, C.M. Trudinger, P.J. Fraser, and A.M. Smith
+#   Published_Date_or_Year: 2002-12-27
+#   Published_Title: Atmospheric histories of halocarbons from analysis of Antarctic firn air: Major Montreal Protocol species
+#   Journal_Name: Journal of Geophysical Research Atmospheres
+#   Volume: 107
+#   Edition: 
+#   Issue: D24
+#   Pages: ACH 12-1-ACH 12-14
+#   Report_Number: 
+#   DOI: 10.1029/2002JD002548
+#   Publication_Place: 
+#   Publisher:
+#   ISBN: 
+#   Online_Resource: 
+#   Other_Reference_Details: 
+#   Full_Citation:
+#   Abstract: Air samples extracted from Antarctic firn at Law Dome have been analyzed for the suite of halocarbons that contribute most of the anthropogenic chlorine and about half the anthropogenic bromine presently released into the stratosphere. The species, all included in the Montreal Protocol, are the chlorofluorocarbons (CFCs -11, -12, -113, -114, -115), hydrochlorofluorocarbons (HCFCs -22, -141b, -142b), halons (H -1211, -1301), CH3CCl3 (methyl chloroform) and CCl4 (carbon tetrachloride). The measurements were used to reconstruct the atmospheric history of these species since the 1930s, providing a record considerably predating existing in situ records or other conventional air archives, encompassing virtually the entire history of anthropogenic emissions of CFCs, HCFCs, and halons and giving early 20th century levels for CH3CCl3 and CCl4. Significant features of this study are (1) the narrow age spread (spectral width 5 years) of the individual firn air samples, which reveals rapid atmospheric changes, (2) the use of inversion techniques to infer past atmospheric composition with associated uncertainties, and (3) the low analytical detection limit (<0.1 ppt), which, together with the narrow air age spread, detects early background levels and resolves the time that industrial emissions first appeared in the southern hemisphere atmosphere. Integrity of the data is demonstrated by successful intercomparison of data from independent firn sites on Law Dome with common time-series. An upper limit is given for the potential contribution to atmospheric levels of CH3CCl3 from nonindustrial sources. The atmospheric records produced from firn air are compared to calculations based on the history of their global emissions.
+#--------------------
+# Publication 
+#   Authors: Langenfelds, R.L., P.J. Fraser, R.J. Francey, L.P. Steele, L.W. Porter, and C.E. Allison
+#   Published_Date_or_Year: 1996
+#   Published_Title: The Cape Grim air archive: The first seventeen years, 1978-1995
+#   Journal_Name:
+#   Volume: 
+#   Edition: 
+#   Issue: 
+#   Pages: 53-70
+#   Report_Number: 
+#   DOI:  
+#   Publication_Place: Melbourne, Australia
+#   Publisher: Bureau of Meteorology and CSIRO Division of Atmospheric Research
+#   ISBN: 
+#   Online_Resource: 
+#   Other_Reference_Details: In: Baseline Atmospheric Program (Australia) 1994-1995, edited by Francey, R.J., A.L. Dick, and N. Derek
+#   Full_Citation:
+#   Abstract: 
+#--------------------
+# Publication 
+#   Authors: Langenfelds, R.L., L.P. Steele, M.V. Van der Schoot, L.N. Cooper, D.A. Spencer, and P.B. Krummel
+#   Published_Date_or_Year: 2004
+#   Published_Title: Atmospheric methane, carbon dioxide, hydrogen, carbon monoxide and nitrous oxide from Cape Grim flask air samples analysed by gas chromatography
+#   Journal_Name:
+#   Volume: 
+#   Edition: 
+#   Issue: 
+#   Pages: 46-47
+#   Report_Number: 
+#   DOI:  
+#   Publication_Place: Melbourne, Australia
+#   Publisher: Bureau of Meteorology and CSIRO Division of Atmospheric Research
+#   ISBN: 
+#   Online_Resource: 
+#   Other_Reference_Details: In: Baseline Atmospheric Program Australia. 2001-2002 ed. J.M. Cainey, N. Derek, and P.B. Krummel (editors)
+#   Full_Citation:
+#   Abstract: 
+#--------------------
+# Publication 
+#   Authors: Langenfelds, R.L., P.J. Fraser, L.P. Steele, and L.W. Porter
+#   Published_Date_or_Year: 2004
+#   Published_Title: Archiving of Cape Grim Air
+#   Journal_Name: 
+#   Volume: 
+#   Edition: 
+#   Issue: 
+#   Pages: 48
+#   Report_Number: 
+#   DOI:  
+#   Publication_Place: Melbourne, Australia
+#   Publisher: Bureau of Meteorology and CSIRO Division of Atmospheric Research
+#   ISBN: 
+#   Online_Resource: 
+#   Other_Reference_Details: In: Baseline Atmospheric Program Australia. 2001-2002 ed. J.M. Cainey, N. Derek, and P.B. Krummel (editors)
+#   Full_Citation:
+#   Abstract: 
+#--------------------
+# Funding_Agency 
+#   Funding_Agency_Name: CSIRO 
+#   Grant: 
+#--------------------
+# Funding_Agency 
+#   Funding_Agency_Name: Australian Climate Change Science Program
+#   Grant: 
+#--------------------
+# Funding_Agency 
+#   Funding_Agency_Name: US National Science Foundation
+#   Grant: 
+#--------------------
+# Site_Information 
+#   Site_Name: Law Dome
+#   Location: Antarctica
+#   Northernmost_Latitude: -66.73
+#   Southernmost_Latitude: -66.73
+#   Easternmost_Longitude: 112.83
+#   Westernmost_Longitude: 112.83
+#   Elevation_m: 1390
+#--------------------
+# Data_Collection  
+#   Collection_Name: Law2006CO2
+#   Earliest_Year: 13
+#   Most_Recent_Year: 2006
+#   Time_Unit: CE
+#   Core_Length_m: 
+#   Parameter_Keywords: atmospheric gas
+#   Notes: 
+#--------------------
+# Chronology_Information
+#   Chronology: 
+#
+#--------------------
+# Variables  
+#
+# PaST_Thesaurus_Download_Resource:  https://www.ncei.noaa.gov/pub/data/paleo/PaST-thesaurus/SKOS/past-thesaurus-v1.0.rdf
+#   PaST_Thesaurus_Download_Description: Paleoenvironmental Standard Terms (PaST) Thesaurus terms, definitions, and relationships in SKOS format.
+#
+# Variables format: Short_name <tab> what,material,error,units,seasonality,data_type,detail,method,data_format,additional_information
+#
+## sample	sample identification,,,,,ice cores;climate forcing,,,C,sampling site or core
+## age_CE	gas age,,,year Common Era,,ice cores;climate forcing,,,N,
+## CO2	carbon dioxide,bulk atmosphere,,parts per million,,ice cores;climate forcing,corrected,,N,corrected for system enhancements and gravitational fractionation
+## citation	notes,,,,,ice cores;climate forcing,,,C,publication reference
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing_Values:
+sample	ageCE	CO2	citation
+CAPE GRIM	2006.0	378.7	
+CAPE GRIM	2005.0	376.7	
+CAPE GRIM	2004.0	374.7	
+CAPE GRIM	2003.0	372.8	
+CAPE GRIM	2002.0	370.5	
+CAPE GRIM	2001.0	368.3	
+CAPE GRIM	2000.0	366.8	
+CAPE GRIM	1999.0	365.5	
+CAPE GRIM	1998.0	363.6	
+CAPE GRIM	1997.0	361.1	
+DSSW20K firn	1996.5	359.5	
+CAPE GRIM	1996.0	359.8	
+CAPE GRIM	1995.0	358.3	
+DSSW20K firn	1994.5	356.9	
+CAPE GRIM	1994.0	356.3	
+CAPE GRIM	1993.0	354.9	
+DSSW20K firn	1992.4	353.6	
+CAPE GRIM	1992.0	354.1	
+CAPE GRIM	1991.0	352.6	
+CAPE GRIM	1990.0	351.0	
+DSSW20K firn	1989.8	349.7	
+CAPE GRIM	1989.0	349.5	
+CAPE GRIM	1988.0	348.3	
+CAPE GRIM	1987.0	346.1	
+CAPE GRIM	1986.0	344.5	
+CAPE GRIM	1985.0	343.2	
+CAPE GRIM	1984.0	341.8	
+DSSW20K firn	1983.7	341.2	
+CAPE GRIM	1983.0	340.1	
+CAPE GRIM	1982.0	338.1	
+CAPE GRIM	1981.0	337.6	
+CAPE GRIM	1980.0	336.6	
+DE08-2	1979.0	332.0	Eth et al., 1996
+DE08-2	1979.0	335.2	Eth et al., 1996
+CAPE GRIM	1979.0	335.3	
+CAPE GRIM	1978.0	333.5	
+CAPE GRIM	1977.0	331.7	
+DE08-2	1976.0	331.2	Eth et al., 1996
+DE08-2	1974.0	328.1	Eth et al., 1996
+DE08-2	1973.0	326.4	MacFM 2004/2006
+DE08	1973.0	329.2	MacFM 2004/2006
+DE08-2	1972.0	324.1	Eth et al., 1996
+DE08-2	1971.2	325.2	Eth et al., 1996
+DE08-2	1970.7	324.7	Eth et al., 1996
+DE08	1970.0	323.2	Eth et al., 1996
+DSSW20K firn	1970.0	324.8	
+DE08	1969.0	323.7	Eth et al., 1996
+DE08-2	1967.0	322.9	MacFM 2004/2006
+DE08	1966.0	318.8	Eth et al., 1996
+DE08	1966.0	319.5	Eth et al., 1996
+DE08	1964.0	318.2	Eth et al., 1996
+DE08	1964.0	319.0	MacFM 2004/2006
+DE08	1963.0	317.0	Eth et al., 1996
+DE08	1963.0	317.0	Eth et al., 1996
+DE08	1963.0	318.7	Eth et al., 1996
+DE08	1963.0	319.4	Eth et al., 1996
+DSS	1960.7	315.7	Eth et al., 1996
+DE08	1959.0	316.3	MacFM 2004/2006
+DE08	1958.0	314.4	MacFM 2004/2006
+DE08	1957.0	314.0	MacFM 2004/2006
+DSSW20K firn	1956.1	316.3	
+DSS	1955.2	313.6	Eth et al., 1996
+DSS	1955.2	314.1	Eth et al., 1996
+DSS	1955.2	314.7	Eth et al., 1996
+DE08	1955.0	313.5	MacFM 2004/2006
+DE08	1955.0	313.8	MacFM 2004/2006
+DE08	1954.0	311.0	Eth et al., 1996
+DE08	1954.0	311.9	Eth et al., 1996
+DE08	1954.0	312.7	Eth et al., 1996
+DE08	1954.0	311.7	MacFM 2004/2006
+DE08	1953.0	312.1	MacFM 2004/2006
+DE08	1950.0	312.6	MacFM 2004/2006
+DSS	1949.3	311.4	Eth et al., 1996
+DE08-2	1949.0	309.9	Eth et al., 1996
+DE08	1949.0	311.2	MacFM 2004/2006
+DE08	1948.0	310.5	MacFM 2004/2006
+DE08-2	1947.0	310.8	MacFM 2004/2006
+DE08	1947.0	310.0	MacFM 2004/2006
+DE08	1947.0	311.5	MacFM 2004/2006
+DE08	1946.0	311.5	MacFM 2004/2006
+DE08	1945.0	309.6	Eth et al., 1996
+DE08	1945.0	309.7	MacFM 2004/2006
+DE08-2	1944.0	311.4	MacFM 2004/2006
+DE08-2	1944.0	312.1	MacFM 2004/2006
+DE08	1944.0	311.3	MacFM 2004/2006
+DE08	1943.0	310.5	MacFM 2004/2006
+DE08	1943.0	311.0	MacFM 2004/2006
+DSSW20K firn	1942.1	312.3	
+DE08	1942.0	310.9	MacFM 2004/2006
+DE08	1942.0	311.6	MacFM 2004/2006
+DE08-2	1941.5	310.3	MacFM 2004/2006
+DE08-2	1941.0	310.5	Eth et al., 1996
+DE08	1941.0	310.7	MacFM 2004/2006
+DE08-2	1940.0	311.9	MacFM 2004/2006
+DE08	1940.0	311.0	Eth et al., 1996
+DSS	1939.1	309.2	Eth et al., 1996
+DE08	1939.0	310.5	Eth et al., 1996
+DE08	1939.0	310.9	MacFM 2004/2006
+DE08	1938.0	309.6	MacFM 2004/2006
+DSS	1937.2	307.9	Eth et al., 1996
+DE08	1936.5	309.0	MacFM 2004/2006
+DE08-2	1935.0	309.2	Eth et al., 1996
+DE08	1934.5	307.8	MacFM 2004/2006
+DE08	1933.0	307.8	Eth et al., 1996
+DE08	1933.0	307.2	MacFM 2004/2006
+DE08	1929.0	305.7	MacFM 2004/2006
+DE08	1928.8	307.8	MacFM 2004/2006
+DSS	1927.8	305.2	Eth et al., 1996
+DSS	1927.2	305.0	Eth et al., 1996
+DE08	1925.0	304.1	Eth et al., 1996
+DE08	1925.0	304.8	Eth et al., 1996
+DE08	1923.6	305.2	MacFM 2004/2006
+DE08	1923.0	303.2	MacFM 2004/2006
+DE08	1919.0	303.6	MacFM 2004/2006
+DE08	1918.6	303.3	MacFM 2004/2006
+DE08	1916.0	301.3	Eth et al., 1996
+DE08	1914.0	300.0	MacFM 2004/2006
+DE08	1914.0	300.7	MacFM 2004/2006
+DE08	1913.0	300.7	Eth et al., 1996
+DE08	1911.5	298.4	MacFM 2004/2006
+DE08	1909.0	300.4	MacFM 2004/2006
+DE08	1906.0	296.9	Eth et al., 1996
+DE08	1906.0	298.5	Eth et al., 1996
+DSS	1904.8	299.0	Eth et al., 1996
+DE08	1904.0	295.1	MacFM 2004/2006
+DE08	1902.0	295.7	MacFM 2004/2006
+DE08	1902.0	295.0	MacFM 2004/2006
+DSS	1900.8	296.5	Eth et al., 1996
+DE08	1899.0	294.7	Eth et al., 1996
+DE08	1899.0	296.0	MacFM 2004/2006
+DE08	1899.0	296.2	MacFM 2004/2006
+DE08-2	1896.0	298.2	MacFM 2004/2006
+DE08	1894.0	293.8	MacFM 2004/2006
+DE08	1893.0	294.6	Eth et al., 1996
+DSS	1892.1	294.7	Eth et al., 1996
+DE08	1889.0	291.5	MacFM 2004/2006
+DE08	1889.0	292.2	MacFM 2004/2006
+DE08	1887.0	293.7	Eth et al., 1996
+DE08	1886.0	290.6	MacFM 2004/2006
+DSS	1884.4	289.0	MacFM 2004/2006
+DE08	1884.0	289.8	MacFM 2004/2006
+DE08	1883.0	291.9	Eth et al., 1996
+DE08	1878.0	288.8	Eth et al., 1996
+DE08	1874.0	290.5	MacFM 2004/2006
+DE08	1873.0	287.2	MacFM 2004/2006
+DE08	1870.0	287.4	Eth et al., 1996
+DSS	1869.1	287.7	MacFM 2004/2006
+DE08	1867.0	285.2	MacFM 2004/2006
+DE08	1864.0	285.4	MacFM 2004/2006
+DE08	1862.0	286.6	Eth et al., 1996
+DE08	1859.0	286.5	MacFM 2004/2006
+DE08	1855.0	284.9	Eth et al., 1996
+DE08	1854.0	287.0	MacFM 2004/2006
+DSS	1852.3	288.6	MacFM 2004/2006
+DE08	1851.0	285.2	Eth et al., 1996
+DE08	1849.0	287.7	MacFM 2004/2006
+DSS	1847.5	286.1	Eth et al., 1996
+DE08	1846.0	283.3	MacFM 2004/2006
+DE08	1846.0	285.0	MacFM 2004/2006
+DE08	1844.0	286.5	MacFM 2004/2006
+DE08	1841.0	283.0	Eth et al., 1996
+DSS	1838.0	284.1	MacFM 2004/2006
+DSS	1834.5	283.7	MacFM 2004/2006
+DE08-2	1833.0	284.5	Eth et al., 1996
+DSS	1826.9	285.1	Eth et al., 1996
+DSS	1826.2	281.3	MacFM 2004/2006
+DSS	1814.2	284.3	MacFM 2004/2006
+DSS	1799.6	281.1	MacFM 2004/2006
+DSS	1799.3	283.7	Eth et al., 1996
+DSS	1796.1	281.6	Eth et al., 1996
+DSS	1794.4	281.5	MacFM 2004/2006
+DSS	1780.6	276.8	MacFM 2004/2006
+DSS	1779.6	279.5	Eth et al., 1996
+DSS	1773.7	277.8	MacFM 2004/2006
+DSS	1763.5	276.3	MacFM 2004/2006
+DSS	1762.8	276.7	Eth et al., 1996
+DSS	1752.2	277.2	Eth et al., 1996
+DSS	1752.0	276.4	MacFM 2004/2006
+DSS	1749.2	276.9	Eth et al., 1996
+DSS	1742.7	276.7	MacFM 2004/2006
+DSS	1734.1	278.2	MacFM 2004/2006
+DSS	1722.9	277.5	Eth et al., 1996
+DSS	1722.8	276.9	MacFM 2004/2006
+DSS	1694.1	276.5	Eth et al., 1996
+DSS	1689.6	276.3	MacFM 2004/2006
+DSS	1681.9	275.9	Eth et al., 1996
+DSS	1649.2	277.2	Eth et al., 1996
+DSS	1640.1	276.6	MacFM 2004/2006
+DSS	1628.9	274.5	MacFM 2004/2006
+DSS	1610.4	271.8	MacFM 2004/2006
+DSS	1603.4	274.3	Eth et al., 1996
+DSS	1591.1	278.7	Eth et al., 1996
+DSS	1588.3	281.0	MacFM 2004/2006
+DSS	1573.0	281.9	Eth et al., 1996
+DSS	1560.4	281.7	MacFM 2004/2006
+DSS	1549.7	282.8	Eth et al., 1996
+DSS	1529.7	283.2	Eth et al., 1996
+DSS	1501.5	282.4	Eth et al., 1996
+DSS	1469.5	279.6	Eth et al., 1996
+DSS	1449.1	281.7	Eth et al., 1996
+DSS	1431.0	282.5	MacFM 2004/2006
+DSS	1429.3	279.5	MacFM 2004/2006
+DSS	1411.3	279.6	MacFM 2004/2006
+DSS	1390.5	280.0	Eth et al., 1996
+DSS	1390.5	280.4	Eth et al., 1996
+DSS	1349.7	280.1	MacFM 2004/2006
+DSS	1330.1	283.4	Eth et al., 1996
+DSS	1306.5	281.5	MacFM 2004/2006
+DSS	1275.8	281.1	MacFM 2004/2006
+DSS	1257.6	282.1	MacFM 2004/2006
+DSS	1246.3	281.7	Eth et al., 1996
+DSS	1207.4	283.6	MacFM 2004/2006
+DSS	1192.6	283.9	Eth et al., 1996
+DSS	1159.6	283.9	MacFM 2004/2006
+DSS	1136.8	283.8	Eth et al., 1996
+DSS	1105.4	282.8	MacFM 2004/2006
+DSS	1087.5	282.4	Eth et al., 1996
+DSS	1058.0	282.8	MacFM 2004/2006
+DSS	1036.8	280.3	Eth et al., 1996
+DSS	1025.2	280.8	MacFM 2004/2006
+DSS	1005.0	280.5	MacFM 2004/2006
+DSS	1005.0	279.4	Eth et al., 1996
+DSS	968.2	278.5	MacFM 2004/2006
+DSS	944.2	279.1	MacFM 2004/2006
+DSS	897.4	278.9	MacFM 2004/2006
+DSS	857.3	279.3	MacFM 2004/2006
+DSS	799.2	278.5	MacFM 2004/2006
+DSS	764.5	278.5	MacFM 2004/2006
+DSS	729.7	278.5	MacFM 2004/2006
+DSS	698.4	279.7	MacFM 2004/2006
+DSS	667.9	279.4	MacFM 2004/2006
+DSS	632.0	278.3	MacFM 2004/2006
+DSS	595.6	276.9	MacFM 2004/2006
+DSS	572.0	277.6	MacFM 2004/2006
+DSS	536.7	276.0	MacFM 2004/2006
+DSS	499.8	276.4	MacFM 2004/2006
+DSS	461.2	276.7	MacFM 2004/2006
+DSS	428.4	276.9	MacFM 2004/2006
+DSS	364.6	277.0	MacFM 2004/2006
+DSS	329.2	278.9	MacFM 2004/2006
+DSS	302.3	279.8	MacFM 2004/2006
+DSS	274.2	280.1	MacFM 2004/2006
+DSS	227.9	281.5	MacFM 2004/2006
+DSS	202.5	280.7	MacFM 2004/2006
+DSS	168.2	280.1	MacFM 2004/2006
+DSS	136.0	278.1	MacFM 2004/2006
+DSS	104.5	277.5	MacFM 2004/2006
+DSS	56.0	277.4	MacFM 2004/2006
+DSS	29.5	277.9	MacFM 2004/2006
+DSS	13.3	276.7	MacFM 2004/2006
