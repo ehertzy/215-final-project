@@ -1,4 +1,10 @@
 # 215-final-project
+Elise Herzfeld
+
+For my project I looked at paleoclimate data via ice cores to compare atmospheric CO2 conectrations and temperature anomaly on an extended timescale. Due to the potential for error when backdating paleoclimate data, I plotted multiple datasets from different years, locations, and researchers to futher enforce the presented trends.
+
+
+Coding Citations:
 
 plot colors for all plots chosen from https://matplotlib.org/stable/gallery/color/named_colors.html
 
